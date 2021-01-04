@@ -1,10 +1,10 @@
 # SocketIO drawing app 
 
 ## Technologies used
-1)Express
-2)NodeJs
-3)P5js
-4)Socket.io
+-Express
+-NodeJs
+-P5js
+-Socket.io
 
 
 
